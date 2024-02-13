@@ -2,17 +2,14 @@
 
 ## Finished Product
 
-### [🔗Project Link]() 
+### [🔗Project Link](https://w11notetaker-364489c73d7e.herokuapp.com/) 
 DESCRIPTION
 
-This project was developed using the following skills: 
+This project was developed using the following skills: HTML, CSS, JS, Heroku, NodeJS
 
 All code is neatly commented for clarity's sake.
 
-All code written manually by Tyler Fruik.
-
-### The following is an image of the final product:
-![Image URL](.assets/images/preview.png)
+All code refactored manually by Tyler Fruik.
 
 ## Assignment Information
 
@@ -39,5 +36,3 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
-
-# Note-Taking-App
